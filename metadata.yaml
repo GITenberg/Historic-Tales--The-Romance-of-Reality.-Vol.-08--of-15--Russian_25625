@@ -1,0 +1,27 @@
+_repo: Historic-Tales--The-Romance-of-Reality.-Vol.-08--of-15--Russian_25625
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Morris, Charles
+    birthdate: 1833
+    deathdate: 1922
+    gutenberg_agent_id: '656'
+    url: http://www.gutenberg.org/2009/agents/656
+description: ''
+gutenberg_issued: '2008-05-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25625'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Russia -- History'
+- !lcc 'DJK'
+- !lcc 'DS'
+title: 'Historic Tales: The Romance of Reality. Vol. 08 (of 15), Russian'
+url: http://www.gutenberg.org/ebooks/25625
